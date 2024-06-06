@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Brock University",
+    "title": "Drop-in Advising Hours - Brock University",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vZXhwZXJpZW5jZWJ1LmJyb2NrdS5jYS9ldmVudC8yNjQwNTHSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T16:31:06Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "CTV News Atlantic",
+    "title": "Here's how to recognize the common signs of stroke - CTV News Atlantic",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vYXRsYW50aWMuY3R2bmV3cy5jYS9ub3QtZW5vdWdoLWNhbmFkaWFucy1yZWNvZ25pemUtY29tbW9uLXNpZ25zLW9mLXN0cm9rZS1oZWFydC1hbmQtc3Ryb2tlLWZvdW5kYXRpb24tMS42OTEyOTIy0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T16:24:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "UBC Faculty of Medicine",
+    "title": "Aging well is connected to hearing well - UBC Faculty of Medicine - UBC Faculty of Medicine",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm1lZC51YmMuY2EvbmV3cy9hZ2luZy13ZWxsLWlzLWNvbm5lY3RlZC10by1oZWFyaW5nLXdlbGwv0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T16:20:21Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "AzerNews.Az",
+    "title": "Chinese probe took off from the far side of the moon after collecting soil samples - AzerNews.Az",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmF6ZXJuZXdzLmF6L3JlZ2lvbi8yMjY5OTMuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T16:06:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Canada.ca",
+    "title": "Update - Starliner spacecraft - Canada.ca",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNhbmFkYS5jYS9lbi9zcGFjZS1hZ2VuY3kvbmV3cy8yMDI0LzA2L3VwZGF0ZS0tLXN0YXJsaW5lci1zcGFjZWNyYWZ0Lmh0bWzSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T16:02:19Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "CBC.ca",
+    "title": "Grassy Narrows First Nation files lawsuit against Ontario, federal governments over mercury contamination - CBC.ca",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90aHVuZGVyLWJheS9ncmFzc3ktbmFycm93cy1maXJzdC1uYXRpb24tbGF3c3VpdC0xLjcyMjM0NDLSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNzIyMzQ0Mg?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T15:47:51Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "NHL.com",
+    "title": "Senators Round Out Coaching Staff | Ottawa Senators - NHL.com",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm5obC5jb20vc2VuYXRvcnMvbmV3cy9zZW5hdG9ycy1yb3VuZC1vdXQtY29hY2hpbmctc3RhZmbSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T15:15:11Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "CTV News Ottawa",
+    "title": "9-year-old boy dies after being pulled from water at Ottawa's Britannia Beach - CTV News Ottawa",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vb3R0YXdhLmN0dm5ld3MuY2EvOS15ZWFyLW9sZC1ib3ktZGllcy1hZnRlci1iZWluZy1wdWxsZWQtZnJvbS13YXRlci1hdC1vdHRhd2Etcy1icml0YW5uaWEtYmVhY2gtMS42OTEyODMz0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T15:04:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Edmonton Journal",
+    "title": "News Flash: Edmonton doesn't care if Oilers are Canada's team - Edmonton Journal",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vZWRtb250b25qb3VybmFsLmNvbS9zcG9ydHMvbmV3cy1mbGFzaC1lZG1vbnRvbi1kb2VzbnQtY2FyZS1pZi1vaWxlcnMtYXJlLWNhbmFkYXMtdGVhbdIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T14:31:15Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Al Jazeera English",
+    "title": "Modi’s BJP to lose majority in India election shock, needs allies for gov’t - Al Jazeera English",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzYvNC9tb2Rpcy1ianAtbG9zZXMtbWFqb3JpdHktaW4taW5kaWEtZWxlY3Rpb24tc2hvY2stbmVlZHMtYWxsaWVzLWZvctIBbWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyNC82LzQvbW9kaXMtYmpwLWxvc2VzLW1ham9yaXR5LWluLWluZGlhLWVsZWN0aW9uLXNob2NrLW5lZWRzLWFsbGllcy1mb3I?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T14:21:47Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "CBC News",
+    "title": "Canadian agencies do not have the capacity or capability to police cybercrime: AG - CBC News",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL3BvbGl0aWNzL2N5YmVyLWNyaW1lLXJjbXAtYWctMS43MjIzODg30gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcyMjM4ODc?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T14:17:57Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "CTV News",
+    "title": "Auditor general blasts federal government over McKinsey contracts - CTV News",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5jdHZuZXdzLmNhL3BvbGl0aWNzL3BvbGljaWVzLXByb2NlZHVyZXMtb2Z0ZW4tYnJva2VuLWluLWF3YXJkaW5nLWNvbnRyYWN0cy10by11bmRlci1maXJlLWNvbnN1bHRpbmctZmlybS1hdWRpdG9yLWdlbmVyYWwtMS42OTEyNjk20gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T14:03:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "GameSpot"
+    },
+    "author": "Tamoor Hussain",
+    "title": "Shadow Of The Erdtree Renews The Awe And Adventure Of Elden Ring - GameSpot",
+    "description": "We played three hours of From Software's first and only DLC for Elden Ring, and it's shaping up to be special.",
+    "url": "https://www.gamespot.com/articles/shadow-of-the-erdtree-renews-the-awe-and-adventure-of-elden-ring/1100-6523901/",
+    "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/43/434805/4312223-eldenring_sote_19_4k.jpg",
+    "publishedAt": "2024-06-04T14:02:02Z",
+    "content": "Elden Ring's Shadow of the Erdtree DLC is more of the same. Admittedly, this is an uninspiring way to discuss one of the most highly anticipated releases of 2024, but that doesn't make it any less ap… [+16479 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "InfoQ.com",
+    "title": "SharePoint Embedded Empowers ISVs to Integrate M365 Features in Apps - InfoQ.com",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmluZm9xLmNvbS9uZXdzLzIwMjQvMDYvc2hhcmVwb2ludC1lbWJlZGRlZC_SAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T13:51:28Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Oilers Nation",
+    "title": "Six Oilers depth players who made key plays in series win over the Stars - Oilers Nation",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vb2lsZXJzbmF0aW9uLmNvbS9uZXdzL3NpeC1vaWxlcnMtZGVwdGgtcGxheWVycy13aG8tbWFkZS1rZXktcGxheXMtaW4tc2VyaWVzLXdpbi1vdmVyLXRoZS1zdGFyc9IBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T13:02:35Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Global News",
+    "title": "\"I’ve got one last fight\": Calgary woman who overcame addiction now dying of cancer - Global News",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CCAiC3JmbmE4QUlUbjdVmAEB?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T12:46:58Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Times Colonist",
+    "title": "Could the upstart B.C. Conservatives swallow BC United? - Victoria Times Colonist - Times Colonist",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRpbWVzY29sb25pc3QuY29tL2xvY2FsLW5ld3MvbGVzLWxleW5lLWNvdWxkLXRoZS11cHN0YXJ0LWJjLWNvbnNlcnZhdGl2ZXMtc3dhbGxvdy1iYy11bml0ZWQtd2hvbGUtODk2ODQyM9IBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T12:23:56Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Financial Post",
+    "title": "Posthaste: Hoping Bank of Canada rate cut will spark housing boom? — don't hold your breath - Financial Post",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vZmluYW5jaWFscG9zdC5jb20vbmV3cy9iYW5rLW9mLWNhbmFkYS1yYXRlLWN1dC1ob3VzaW5nLWJvb20tdW5saWtlbHnSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T12:07:12Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Insurance Business",
+    "title": "Drayden Insurance boosts Alberta presence with De Luca acquisition - Insurance Business",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5pbnN1cmFuY2VidXNpbmVzc21hZy5jb20vY2EvbmV3cy9icmVha2luZy1uZXdzL2RyYXlkZW4taW5zdXJhbmNlLWJvb3N0cy1hbGJlcnRhLXByZXNlbmNlLXdpdGgtZGUtbHVjYS1hY3F1aXNpdGlvbi00OTE4MzEuYXNweNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T12:01:17Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": "Sudbury.com",
+    "title": "Paula Abdul to perform at Sudbury Arena in October - Sudbury.com",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnN1ZGJ1cnkuY29tL2xpZmVzdHlsZS9wYXVsYS1hYmR1bC10by1wZXJmb3JtLWF0LXN1ZGJ1cnktYXJlbmEtaW4tb2N0b2Jlci04OTczMzEy0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-04T11:41:55Z",
+    "content": null
+    }
+    ]
+    }
